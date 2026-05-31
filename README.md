@@ -89,9 +89,9 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions strictly b
 ```text
 CodeAlpha_Tasks
 │
-├── Task_1_FAQ_Chatbot
+├── Task_2-FAQ_Chatbot
 │
-├── Task_2_Vehicle_Detection_Tracking
+├── Task_4-Vehicle_Detection_Tracking
 │
 └── Additional_RAG_Knowledge_Bot
 ```
