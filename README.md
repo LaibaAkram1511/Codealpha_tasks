@@ -6,6 +6,11 @@ This repository contains the AI projects completed as part of the CodeAlpha AI I
 
 ### Task 1: FAQ Chatbot using NLP
 
+## Live Demo
+
+FAQ Chatbot:
+https://faq-chatbot-laibaakram.streamlit.app
+
 #### Description
 
 A chatbot that answers user questions by matching them with the most relevant FAQ using Natural Language Processing techniques.
